@@ -1,0 +1,10 @@
+Package: com.certus.cnsimulatetouch
+Name: CNSimulateTouch
+Depends:mobilesubstrate, firmware (>= 6.0), com.rpetrich.rocketbootstrap 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome library of some sort!!
+Maintainer: wugensan
+Author: wugensan
+Section: System
+Tag: role::developer
